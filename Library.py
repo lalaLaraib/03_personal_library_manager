@@ -115,7 +115,7 @@ if 'current_view' not in st.session_state:
 def load_library():
     try:
         if os.path.exists('library.json'):
-            with open('library-json','r') as file:
+            with open('library.json','r') as file:
                 st.session_state.library = json.load(file)
                 return True
             return False
