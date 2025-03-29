@@ -1,0 +1,66 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publication_year": 1925,
+    "genre": "Fiction",
+    "read_status": true,
+    "added_date": "2023-03-14-10:45:00"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publication_year": 1960,
+    "genre": "Fiction",
+    "read_status": false,
+    "added_date": "2023-03-15-12:30:00"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "publication_year": 1949,
+    "genre": "Dystopian",
+    "read_status": true,
+    "added_date": "2023-04-02-09:20:00"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "publication_year": 2011,
+    "genre": "Non-fiction",
+    "read_status": false,
+    "added_date": "2023-05-10-15:40:00"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publication_year": 1937,
+    "genre": "Fantasy",
+    "read_status": true,
+    "added_date": "2023-06-20-17:00:00"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publication_year": 1951,
+    "genre": "Fiction",
+    "read_status": false,
+    "added_date": "2023-07-05-13:25:00"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "publication_year": 2018,
+    "genre": "Memoir",
+    "read_status": true,
+    "added_date": "2023-08-15-11:10:00"
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "publication_year": 2012,
+    "genre": "Self-help",
+    "read_status": false,
+    "added_date": "2023-09-25-18:15:00"
+  }
+]
